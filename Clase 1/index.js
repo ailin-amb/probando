@@ -66,6 +66,7 @@ function bienvenida(name) {
     console.log(`Hola ${name}!!!`)
 }
 
+
 bienvenida(nombre)
 
 //Funcion flecha (ejecucion mas rapida y corta)
