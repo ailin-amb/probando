@@ -80,6 +80,7 @@ const suma = () => {
 
 suma()
 
+// para volver a la carpeta anterior cd ..
 //para subir mi codigo a github ( o cualquier repositorio)
 //Primero consultar el status: git status
 //Realizar una seleccion de los archivos a subir: git add ... / git add .(sube todos, tener en cuenta el espacio)

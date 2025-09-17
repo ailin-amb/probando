@@ -50,11 +50,3 @@ console.log(Array.isArray(Object.values(obj2)));
 console.log(Array.isArray(obj2));
 console.log("hasOwnProperty: ", obj1.hasOwnProperty(1));
 console.log("hasOwn: ", Object.hasOwn(obj1, "mouse"));
-
-//Desestructurin Object
-//Un metodo para extraer valores a variables
-
-let a, b
-//console.log(a)
-[a, b] = ["esto es A", "esto es B"]
-console.log(a, b)
