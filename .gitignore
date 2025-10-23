@@ -1,0 +1,11 @@
+# Ignorar node_modules y dependencias
+node_modules/
+**/node_modules/
+
+# Ignorar lock files
+package-lock.json
+
+# Ignorar archivos temporales
+.DS_Store
+.env
+
